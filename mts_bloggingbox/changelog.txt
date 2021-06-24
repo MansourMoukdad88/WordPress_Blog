@@ -1,0 +1,346 @@
+v1.2.8 (Dec 23, 2020)
+-----------------------------
+- Fixed compatibility issues with the WordPress 5.6
+- Fixed comment reply functionality
+- Fixed page jump when user clicks on the description tab in the single product
+- Added 8 new Google fonts in the typography options
+
+Files Updated:
+- comments.php
+- functions.php
+- functions/rank-math-notice.php
+- functions/rm-seo.php
+- js/customscript.js
+- lang/bloggingbox.pot
+- options/css/aristo.css
+- options/fields/button_set/field_button_set.php
+- options/fields/button_set_hide_below/field_button_set_hide_below.php
+- options/fields/multi_checkbox/field_multi_checkbox.php
+- options/fields/background/field_background.php
+- options/js/options.js
+- style.css
+
+
+v1.2.7 (Aug 19, 2020)
+-----------------------------
+- Fixed compatibility issues with the WordPress 5.5
+- Disabled WP 5.5 core lazy loading if theme's lazy loading option is enabled
+- Added 9 new Google fonts in the typography options
+
+Files Updated:
+- functions.php
+- options/fields/group/field_group.js
+- options/fields/layout2/field_layout2.js
+- options/fields/multi_text/field_multi_text.js
+- lang/bloggingbox.pot
+- theme-options.php
+- style.css
+
+
+v1.2.6 (Apr 15, 2020)
+----------------------------
+- Options Panel will work even without the MyThemeShop Updater plugin, but you will not receive any future updates without this plugin
+- Added 10 new Google fonts in the typography options
+
+Files Updated:
+- functions.php
+- functions/plugin-activation.php
+- functions/theme-actions.php
+- lang/bloggingbox.pot
+- style.css
+
+
+v1.2.5 (April 7, 2020)
+-----------------------------
+- Released BloggingBox premium theme for free
+- Fixed 'data-vocabulary' schema warning in the breadcrumbs
+- Added 7 new Google fonts in the typography options
+
+Files Updated:
+- functions.php
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- functions/rank-math-notice.php
+- functions/theme-actions.php
+- lang/bloggingbox.pot
+- page-templates/contact.php
+- page.php
+- single.php
+- style.css
+
+
+v1.2.4 (Nov 15, 2019)
+-----------------------------
+- Fixed notices related to WP 5.3
+
+Files Updated:
+- functions.php
+- lang/bloggingbox.pot
+- options/options.php
+- style.css
+
+
+v1.2.3 (Jul 17, 2019)
+-----------------------------
+- Fixed 'Upload Theme' button not working
+- Added 15 new Google fonts in the typography options
+
+ Files Updated:
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- functions.php
+- options/css/options.css
+- style.css
+
+
+v1.2.2 (Jan 12, 2019)
+-----------------------------
+- Updated the Rank Math's auto installation process to give the control back to the users
+- Fixed MyThemeShop Connect install issue on Recommended Plugins page
+
+Files Updated:
+- functions.php
+- functions/rank-math-notice.php
+- functions/rm-seo.php
+- functions/theme-actions.php
+- images/rank-math-banner.jpg
+- lang/bloggingbox.pot
+- style.css
+
+
+v1.2.1 (Nov 22, 2018)
+-----------------------------
+- Added More SEO Tweaks
+- Added better integration with Rank Math SEO plugin
+- Added integration for Rank Math SEO Breadcrumbs
+- Fixed Twitter widget issue
+- Replaced inline transparent 1x1 image
+
+Files Updated:
+- comments.php
+- functions.php
+- single.php
+- style.css
+- functions/cacert.pem
+- functions/rm-seo.php
+- functions/rm-seo.php
+- functions/twitteroauth.php
+- functions/widget-tweets.php
+- lang/bloggingbox.pot
+- page-templates/contact.php
+- page.php
+- single.php
+
+
+v1.2.0 (Oct 8, 2018)
+-----------------------------
+- Added life-changing SEO support with an included SEO plugin
+- Added compatibility for Gutenberg editor
+- Added 6 new Google fonts in the typography options
+- Security & licensing fixes
+- Fixed WooCommerce Product Search button styling issue
+- Fixed WooCommerce Layered Nav Dropdown button styling issue
+- Fixed other minor CSS issues
+- Important fixes for better performance
+
+Files Updated:
+- functions.php
+- style.css
+- css/woocommerce2.css
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- functions/theme-actions.php
+- options/options.php
+- lang/bloggingbox.pot
+
+
+v1.1.0 (Sep 06, 2018)
+-----------------------------
+- Fixed Google structured data issues for blog posts
+
+Files Updated:
+- style.css
+- functions.php
+- single.php
+
+
+v1.1 (June 11, 2018)
+-----------------------------
+- Added 2 new layouts in header
+- Added an option to control slider navigation style
+- Added an option to enable/disable slider auto play
+- Added Newsletter Subscribe section in the footer on homepage
+- Added an option to enable/disable move to top button in the footer.
+- Fixed search button issue with the WooCommerce plugin
+- Fixed Author Posts widget issue
+- Fixed minor CSS issues
+
+Files Updated:
+- style.css
+- functions.php
+- theme-options.php
+- css/responsive.css
+- css/rtl.css
+- header.php
+- footer.php
+- js/customscript.js
+- functions/theme-actions.php
+- functions/widget-authorposts.php
+- header-layouts/header-default.php
+- header-layouts/header-traditional.php
+- header-layouts/header-traditional-2.php
+
+
+v1.0.8 (May 22, 2018)
+-----------------------------
+- Added GDPR Compliant Comment & Contact Form
+- Fixed column alignment issue with the Elmentor plugin
+
+Files Updated:
+- style.css
+- functions.php
+- comments.php
+- css/rtl.css
+- functions/contact-form.php
+- js/contact.js
+
+
+v1.0.7 (Apr 28, 2018)
+-----------------------------
+- Added brand new social share icons layout
+- Added Reddit support in social sharing buttons
+- Added few performance perks
+- Fixed a couple of security issues
+
+Files Updated:
+- style.css
+- functions.php
+- theme-options.php
+- css/responsive.css
+- css/rtl.css
+- functions/nav-menu.php
+- functions/theme-actions.php
+- functions/widget-ad125.php
+- functions/widget-ad300.php
+- functions/widget-ad728.php
+- functions/widget-authorposts.php
+- functions/widget-catposts.php
+- functions/widget-fblikebox.php
+- functions/widget-popular.php
+- functions/widget-recentposts.php
+- functions/widget-relatedposts.php
+- functions/widget-social.php
+- functions/widget-tweets.php
+
+
+v1.0.6 (Mar 24, 2018)
+-----------------------------
+- Fixed plugin install issue on "Install Required Plugins" page
+
+Files Updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- js/addons.js
+- css/addons.css
+
+
+v1.0.5 (Mar 10, 2018)
+-----------------------------
+- Added description on archive pages for SEO
+- Added new Ad-Sense widget to insert ad codes
+- Added WP Subscribe plugin in the Essential Plugins list
+- Improved Schema Markup code
+- Improved enqueue args code
+- Improved Related posts code
+- Improved sidebar code
+- Improved overall code for better performance
+- Fixed PHP warnings
+- Fixed Featured Categories Section notices issue
+- Fixed Illegal string offset issue in Social Profile Icons widget
+- Fixed color picker issue in the Theme Options panel
+- Fixed Group field input checkbox
+- Disabled lazy-load on AMP pages
+- Replaced deprecated WooCommerce cart URL
+
+Files Updated:
+- style.css
+- functions.php
+- theme-options.php
+- header.php
+- archive.php
+- searchform.php
+- css/responsive.css
+- functions/welcome-message.php
+- functions/theme-actions.php
+- functions/widget-social.php
+- functions/plugin-activation.php
+- lang/bloggingbox.pot
+- options/options.php
+- options/css/options.css
+- options/fields/layout2/field_layout2.php
+- options/fields/group/field_group.js
+- options/fields/group/field_group.php
+
+
+v1.0.4 (Dec 24, 2017)
+ -----------------------------
+ - Fix PHP warning when the number of readers is not given in Footer > Reader Subscriptions
+ - Fix WooCommerce deprecated notice
+
+Files updated:
+- footer.php
+- functions.php
+- functions/theme-actions.php
+- lang/bloggingbox.mo
+- lang/bloggingbox.pot
+- style.css
+
+
+v1.0.3 (August 16, 2017)
+ -----------------------------
+ - Fixed Few CSS Issues
+
+Files updated:
+- functions.php
+- style.css
+
+v1.0.2 (August 1, 2017)
+-----------------------------
+- Fixed PHP & importer warnings
+- Fixed OAuthException issue
+- Updated FontAwesome to 4.7 (90+ New Icons!)
+- Fixed unnecessary sprintf calls
+- Fixed escape blogname attribute
+- Fixed CSS in /my-account page
+- Fixed featured image in admin posts table responsive
+
+Files updated:
+- style.css
+- functions.php
+- functions/twitteroauth.php
+- functions/theme-actions.php
+- css/font-awesome.min.css
+- css/woocommerce2.css
+- fonts/FontAwesome.otf
+- fonts/fontawesome-webfont.eot
+- fonts/fontawesome-webfont.svg
+- fonts/fontawesome-webfont.ttf
+- fonts/fontawesome-webfont.woff
+- fonts/fontawesome-webfont.woff2
+- options/demo-importer/importer/parsers.php
+
+v1.0.1 (Jun 17, 2017)
+-----------------------------
+- Fixed archive & search pages when 'Latest Posts' are not enabled on the homepage
+
+Files Updated:
+- style.css
+- functions.php
+- archive.php
+- search.php
+
+
+v1.0 (May 14, 2017)
+-----------------------------
+- Theme released
